@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name        = 'jekyll-github-comments'
-  spec.version     = '1.0.0'
+  spec.version     = '1.0.1'
   spec.date        = '2016-11-23'
   spec.summary     = "Jekyll Github Comments"
   spec.description = "A Jekyll plugin to provide static site comments via Github pull requests."

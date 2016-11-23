@@ -61,7 +61,7 @@ module Jekyll
 
       # Find threaded replies and store them separately to comment content
       def parse(tokens)
-        @line = tokens[0].line_number
+        @line = tokens[1].line_number
 
         @blank = true
         @nodelist ||= []
